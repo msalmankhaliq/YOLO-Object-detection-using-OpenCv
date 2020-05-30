@@ -54,6 +54,6 @@ The COCO dataset consists of 80 labels, including, but not limited to:
  
  
  
-###License
+### License
 
 Licensed under the Apache License, Version 2.0. Copyright 2019.
