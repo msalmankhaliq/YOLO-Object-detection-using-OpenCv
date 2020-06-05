@@ -34,7 +34,7 @@ The COCO dataset consists of 80 labels, including, but not limited to:
     Kitchen and dining objects, such as wine glasses, cups, forks, knives, spoons, etc.
     …and much more!
 
- Download the pre-trained YOLO v3 weights file from this [link](https://pjreddie.com/media/files/yolov3.weights) and place it in your jupyter notebook directory.
+ Download the pre-trained YOLO v3 weights file from this [link](https://pjreddie.com/media/files/yolov3.weights) and place it in your jupyter notebook directory (inside coco folder).
   
  Provided all the files are in the directory, apply object detection on the input image of your choice by running `object detection on image.ipynb` on jupyter notebook.
  After that, you'll get the output of a image with detected objects.
